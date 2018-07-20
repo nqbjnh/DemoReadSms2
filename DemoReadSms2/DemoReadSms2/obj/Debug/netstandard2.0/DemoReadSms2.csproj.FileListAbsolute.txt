@@ -1,0 +1,11 @@
+G:\Projects\XamarinProjects\DemoReadSms2\DemoReadSms2\DemoReadSms2\bin\Debug\netstandard2.0\DemoReadSms2.deps.json
+G:\Projects\XamarinProjects\DemoReadSms2\DemoReadSms2\DemoReadSms2\bin\Debug\netstandard2.0\DemoReadSms2.dll
+G:\Projects\XamarinProjects\DemoReadSms2\DemoReadSms2\DemoReadSms2\bin\Debug\netstandard2.0\DemoReadSms2.pdb
+G:\Projects\XamarinProjects\DemoReadSms2\DemoReadSms2\DemoReadSms2\obj\Debug\netstandard2.0\DemoReadSms2.csproj.CoreCompileInputs.cache
+G:\Projects\XamarinProjects\DemoReadSms2\DemoReadSms2\DemoReadSms2\obj\Debug\netstandard2.0\DemoReadSms2.App.xaml.g.cs
+G:\Projects\XamarinProjects\DemoReadSms2\DemoReadSms2\DemoReadSms2\obj\Debug\netstandard2.0\DemoReadSms2.MainPage.xaml.g.cs
+G:\Projects\XamarinProjects\DemoReadSms2\DemoReadSms2\DemoReadSms2\obj\Debug\netstandard2.0\DemoReadSms2.AssemblyInfoInputs.cache
+G:\Projects\XamarinProjects\DemoReadSms2\DemoReadSms2\DemoReadSms2\obj\Debug\netstandard2.0\DemoReadSms2.AssemblyInfo.cs
+G:\Projects\XamarinProjects\DemoReadSms2\DemoReadSms2\DemoReadSms2\obj\Debug\netstandard2.0\DemoReadSms2.dll
+G:\Projects\XamarinProjects\DemoReadSms2\DemoReadSms2\DemoReadSms2\obj\Debug\netstandard2.0\DemoReadSms2.pdb
+G:\Projects\XamarinProjects\DemoReadSms2\DemoReadSms2\DemoReadSms2\obj\Debug\netstandard2.0\DemoReadSms2.csprojResolveAssemblyReference.cache

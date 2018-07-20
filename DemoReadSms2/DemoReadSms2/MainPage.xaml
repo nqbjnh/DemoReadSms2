@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DemoReadSms2"
+             x:Class="DemoReadSms2.MainPage">
+
+	<!--<Label Text="sfsdf"></Label>-->
+    <ScrollView>
+        <ListView x:Name="listSms" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell >
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="{Binding Address}"/>
+                            <Label Text="{Binding Body}"></Label>
+                        </StackLayout>
+                        
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ScrollView>
+</ContentPage>
